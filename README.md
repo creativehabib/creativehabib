@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**creativehabib/creativehabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web development project ...
@@ -13,7 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Google on creativehabib...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/creativehabib) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/creativehabibur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creativehabib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/creativehabib) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/creativehabib) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/creativehabib) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@creativehabib) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/creativehabib) 
